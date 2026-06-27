@@ -1,1 +1,2 @@
 # smin
+smin2
