@@ -1,2 +1,1 @@
 # smin
-smin2
